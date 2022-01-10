@@ -15,7 +15,7 @@
             - Data types - strings, booleans, numbers, Symbols, undefined, null
             - Arrays
 
-        "Practice is power."
+        "Practice is power, not knowledge."
 
     - What are our daily practices?
 
