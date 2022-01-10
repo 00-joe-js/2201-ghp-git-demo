@@ -1,0 +1,51 @@
+
+    - What are we learning?
+
+        - Web Development.
+            - Web application. <-- A combination of client-side (browser) program and a server program.
+        - Javascript. (Fullstack)
+            - Client-side (browser) Javascript is the only option to building client-side programs.
+            - Server-side -- you can pick any language, but we'll learn Javascript here.
+            
+        Javascript Fundamentals
+            - Functions
+            - Loops
+            - Objects
+                - Prototype
+            - Data types - strings, booleans, numbers, Symbols, undefined, null
+            - Arrays
+
+        "Practice is power."
+
+    - What are our daily practices?
+
+        - **Cohort Library Repo**
+
+        - Lectures:
+            - Slide decks, code demos, Q&A.
+            - These may go over calendar time, but we try to keep them efficient!
+            - Use #2201-ghp-help-and-feedback participation thread to interact and ask text questions.
+            - All recordings and lecture materials will appear in your cohort library repo on Github.
+
+        - Morning Reviews:
+            - At the end of each day, an "exit ticket" will be shared with you with some essential questions regarding
+              the day's material in the form of a short multiple choice quiz.
+            - Please fill this survey out each day after class, it should take 5-15 minutes depending.
+            - Instructors will review the ticket and/or the main concepts of the previous day of learning from 9:30-10:00am
+              each morning (unless it is not on the calendar).
+
+        - Labs:
+            - Learning resources available via LMS (learn.fullstack...) that you work on SOLO.
+            - These will typically have a lot of hints and solutions to open up, and be more basic
+              than the workshops (pair exercises).
+            - It is expected AND okay that you typically do not reach the end of these.
+
+        - Workshops:
+            - Learning resources available via LMS (learn.fullstack...) that you work on WITH ANOTHER STUDENT (pair).
+            - These will sometimes have hints and solutions to open up, which you should only rely on once you have both:
+                - Struggled with the problem
+                - Reached out to instructors for help (via help desk)
+            - It is expected AND okay that you typically do not reach the end of these. This does not include the extra credit
+              or bonus sections.
+                - The most important takeaways are established and practiced in the first few/several sections.
+
